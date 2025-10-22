@@ -1,4 +1,4 @@
-# Company Project PL/pgSQL
+# Company project PL/pgSQL
 
 This repository contains PL/pgSQL code for a company project. It provides a structured database schema and sample data for managing companies, locations, departments, projects and employees along with logging and access control mechanisms.
 
